@@ -10,7 +10,6 @@ Welcome to the To_Do_List project repository! This project is a simple yet funct
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
