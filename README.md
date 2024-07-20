@@ -66,6 +66,18 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 Fork the repository
 Create a new branch:
 Make your changes and commit them:
-git commit -m 'Add some feature'
 git checkout -b feature/your-feature-name
+git commit -m 'Add some feature
+Push to the branch
+git checkout -b feature/your-feature-name
+Create a pull request
+Contact
+For any questions or feedback, please reach out to:
+
+Anusha Vooda
+
+GitHub: Anuvooda
+Thank you for visiting the To_Do_List project repository!
+
+
 
