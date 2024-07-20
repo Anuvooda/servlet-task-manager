@@ -38,3 +38,26 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Anuvooda/servlet-task-manager.git
    cd servlet-task-manager
+   Set up a Java EE server (like Apache Tomcat):
+
+Download and install Apache Tomcat.
+Deploy the project to the Tomcat server.
+Open the project in your preferred IDE:
+
+Ensure you have the necessary configurations for JSP.
+Run the project:
+
+Start the Tomcat server and navigate to http://localhost:8080/To_Do_List in your web browser.
+Usage
+Open the application:
+
+Navigate to the application's URL on your local server.
+Add a new task:
+
+Enter the task description in the input field and click "Add Task".
+Mark a task as completed:
+
+Click the checkbox next to the task.
+Delete a task:
+
+Click the delete button next to the task.
