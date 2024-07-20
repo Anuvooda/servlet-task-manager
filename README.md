@@ -61,3 +61,11 @@ Click the checkbox next to the task.
 Delete a task:
 
 Click the delete button next to the task.
+Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or create a pull request.
+Fork the repository
+Create a new branch:
+Make your changes and commit them:
+git commit -m 'Add some feature'
+git checkout -b feature/your-feature-name
+
