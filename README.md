@@ -46,8 +46,6 @@ Open the project in your preferred IDE:
 Ensure you have the necessary configurations for JSP.
 Run the project:
 
-Start the Tomcat server and navigate to http://localhost:8080/To_Do_List in your web browser.
-Usage
 Open the application:
 
 Navigate to the application's URL on your local server.
